@@ -1,0 +1,8 @@
+prefix=/home/acatarinal/Treinamento-ROS/hello_world/catkin_ws/install
+
+Name: helloWorld
+Description: Description of helloWorld
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lhelloWorld
+Requires: roscpp rospy std_msgs message_runtime

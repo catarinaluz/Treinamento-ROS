@@ -1,0 +1,8 @@
+<launch>
+
+<node name="publisherNode" pkg="helloWorld" type="publisherNode"
+output="screen"/>
+<node name="subscriberNode" pkg="helloWorld" type="subscriberNode"
+output="screen"/>
+
+</launch>
