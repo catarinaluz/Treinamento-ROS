@@ -1,4 +1,6 @@
-Treinamento de ROS do grupo SEMEAR
+# Treinamento de ROS do grupo SEMEAR
+
+## Projetos
 
 **Projeto 1**
 
