@@ -1,0 +1,8 @@
+prefix=/home/acatarinal/Treinamento-ROS/projeto1/catkin_ws/install
+
+Name: projeto1
+Description: Description of projeto1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
