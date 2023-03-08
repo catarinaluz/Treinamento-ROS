@@ -1,0 +1,8 @@
+prefix=/home/acatarinal/Treinamento-ROS/projeto2/parte1/catkin_ws/install
+
+Name: cougarbot
+Description: Description of cougarbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
